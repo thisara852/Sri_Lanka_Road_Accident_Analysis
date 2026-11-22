@@ -119,4 +119,4 @@ Sabaragamuwa University of Sri Lanka
 
 ---
 
-*This project was developed as part of my Data Analytics learning and portfolio development.*
+*This project was developed as part of my Data Analytics learning.*
